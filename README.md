@@ -7,8 +7,6 @@
 
 </br>
 
-![Activity Graph](https://raw.githubusercontent.com/thiagotasseli/thiagotasseli/output/activity-graph.svg)
-
 <h1 style="color:0500CD">Tecnologias</h1>
 
 <p align="center">
@@ -22,10 +20,10 @@
 <h1 style="color:0500CD">Contato</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagotasseli-tech" target="_blank">
+  <a href="https://www.linkedin.com/in/thiagotasseli" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:tasselii.dev@outlook.com.br">
+  <a href="mailto:thiagotasseli@outlook.com.br">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -33,6 +31,5 @@
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0500CD&size=20&center=true&vCenter=true&width=1000&lines=FIQUE+A+VONTADE+PARA+CLONAR+E+COMPARTILHAR!)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0500CD&height=120&section=footer"/>
