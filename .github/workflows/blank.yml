@@ -17,7 +17,7 @@ jobs:
       - uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: thiagotasseli
-          options: theme=react-dark&line=0500CD&hide_border=true
+          options: theme=react-dark&line=0500CD&point=0500CD&title_color=0500CD&color=0500CD&hide_border=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
